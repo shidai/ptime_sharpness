@@ -1,0 +1,8 @@
+To compile:
+sh run.sh
+
+"Usage: ptime_sharpness -s tname -on frac"
+"Calculate the sharpness of profiles"
+tname: templates; -s: standard template format (ptime template not supported)
+frac: on-pulse fraction
+
